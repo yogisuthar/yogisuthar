@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @yogisuthar
+- 👋 Hi, I’m yogesh suthar
 - 👀 I’m interested in learning HTML CSS Javascript and other cool coding languages
 - 🌱 I’m currently learning html and css
 - 💞️ I’m looking to collaborate on getting better 
